@@ -1,7 +1,7 @@
 # Bigdata-Hadoop
 A quick reference to Bigdata-Hadoop technologies
 
-Here I am will give some quick reference guides to the following tools and technologies. 
+Here I am providing some quick reference guides/notes to the following tools and technologies. 
 
 1. HDFS
 2. MAp Reduce
