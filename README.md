@@ -11,12 +11,13 @@ Here I am providing some quick reference guides/notes to the following tools and
 06. Sqoop
 07. Flume
 08. Kafka
-09. Oozie
-10. Strom
-11. Spark
-12. Scala
-13. Performance Tuning
-14. Cassandra...... and more 
+09. Zookeeper
+10. Oozie
+11. Strom
+12. Spark
+13. Scala
+14. Performance Tuning
+15. Cassandra...... and more 
 
 
 Thanks to everyone for supporting me. Please send your views/Ideas/suggesitions to   rajesh.jetti99@gmail.com 
